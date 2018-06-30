@@ -1,14 +1,19 @@
 body {
-        padding-left: 15px;
-    }
+    padding: 0 15px;
+    background-color: #f5e6d4;
+    font-family: 'Play', 'Ariel';
+}
+
 .page-header {
-    background-color: #ff9400;
+    /*background-color: #0044DD;*/
+    background-color: #e762a0;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
+    color:#fff;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
+    color: #000000;
     font-size: 36pt;
     text-decoration: none;
 }
@@ -18,7 +23,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', Cursive;
+    font-family: 'Jura';
 }
 
 .date {
